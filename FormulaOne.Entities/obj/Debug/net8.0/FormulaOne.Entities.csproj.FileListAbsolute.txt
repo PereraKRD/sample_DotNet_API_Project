@@ -5,6 +5,7 @@
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.AssemblyInfoInputs.cache
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.AssemblyInfo.cs
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.csproj.CoreCompileInputs.cache
+/Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.sourcelink.json
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.dll
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/obj/Debug/net8.0/refint/FormulaOne.Entities.dll
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/obj/Debug/net8.0/FormulaOne.Entities.pdb

@@ -5,5 +5,5 @@ public interface IUnitofWork
     IDriverRepository Drivers { get; }
     IAchivementRepository Achievements { get; }
     
-    Task CompleteAsync();
+    Task<bool> CompleteAsync();
 }
