@@ -6,7 +6,6 @@
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Api/bin/Debug/net8.0/FormulaOne.Api.dll
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Api/bin/Debug/net8.0/FormulaOne.Api.pdb
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Api/bin/Debug/net8.0/AutoMapper.dll
-/Users/ryandilanka/Desktop/API Project/FormulaOne.Api/bin/Debug/net8.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Api/bin/Debug/net8.0/Humanizer.dll
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Api/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
