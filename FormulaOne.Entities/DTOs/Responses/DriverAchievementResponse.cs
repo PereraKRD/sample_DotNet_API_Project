@@ -1,0 +1,10 @@
+namespace FormulaOne.Entities.DTOs.Responses;
+
+public class DriverAchievementResponse
+{
+    public Guid DriverId { get; set; }
+    public int WorldChampionship { get; set; }
+    public int PolePosition { get; set; }
+    public int FastestLap { get; set; }
+    public int RaceWins { get; set; }
+}
