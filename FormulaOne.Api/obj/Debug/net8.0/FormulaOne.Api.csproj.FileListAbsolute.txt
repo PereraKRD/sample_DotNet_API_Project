@@ -145,3 +145,7 @@
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Api/obj/Debug/net8.0/FormulaOne.Api.pdb
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Api/obj/Debug/net8.0/FormulaOne.Api.genruntimeconfig.cache
 /Users/ryandilanka/Desktop/API Project/FormulaOne.Api/obj/Debug/net8.0/ref/FormulaOne.Api.dll
+/Users/ryandilanka/Desktop/API Project/FormulaOne.Api/bin/Debug/net8.0/MassTransit.dll
+/Users/ryandilanka/Desktop/API Project/FormulaOne.Api/bin/Debug/net8.0/MassTransit.Abstractions.dll
+/Users/ryandilanka/Desktop/API Project/FormulaOne.Api/bin/Debug/net8.0/MassTransit.RabbitMqTransport.dll
+/Users/ryandilanka/Desktop/API Project/FormulaOne.Api/bin/Debug/net8.0/RabbitMQ.Client.dll

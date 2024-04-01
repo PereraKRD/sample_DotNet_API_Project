@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/FormulaOne.Entities.csproj",
+      "projectUniqueName": "/Users/ryandilanka/Documents/Sem 6/Software Project/API Project/FormulaOne.Entities/FormulaOne.Entities.csproj",
       "projectName": "FormulaOne.Entities",
-      "projectPath": "/Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/FormulaOne.Entities.csproj",
+      "projectPath": "/Users/ryandilanka/Documents/Sem 6/Software Project/API Project/FormulaOne.Entities/FormulaOne.Entities.csproj",
       "packagesPath": "/Users/ryandilanka/.nuget/packages/",
-      "outputPath": "/Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/obj/",
+      "outputPath": "/Users/ryandilanka/Documents/Sem 6/Software Project/API Project/FormulaOne.Entities/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ryandilanka/.nuget/NuGet/NuGet.Config"

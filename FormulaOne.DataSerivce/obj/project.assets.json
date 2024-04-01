@@ -2580,11 +2580,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ryandilanka/Desktop/API Project/FormulaOne.DataSerivce/FormulaOne.DataSerivce.csproj",
+      "projectUniqueName": "/Users/ryandilanka/Documents/Sem 6/Software Project/API Project/FormulaOne.DataSerivce/FormulaOne.DataSerivce.csproj",
       "projectName": "FormulaOne.DataSerivce",
-      "projectPath": "/Users/ryandilanka/Desktop/API Project/FormulaOne.DataSerivce/FormulaOne.DataSerivce.csproj",
+      "projectPath": "/Users/ryandilanka/Documents/Sem 6/Software Project/API Project/FormulaOne.DataSerivce/FormulaOne.DataSerivce.csproj",
       "packagesPath": "/Users/ryandilanka/.nuget/packages/",
-      "outputPath": "/Users/ryandilanka/Desktop/API Project/FormulaOne.DataSerivce/obj/",
+      "outputPath": "/Users/ryandilanka/Documents/Sem 6/Software Project/API Project/FormulaOne.DataSerivce/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ryandilanka/.nuget/NuGet/NuGet.Config"
@@ -2599,8 +2599,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/FormulaOne.Entities.csproj": {
-              "projectPath": "/Users/ryandilanka/Desktop/API Project/FormulaOne.Entities/FormulaOne.Entities.csproj"
+            "/Users/ryandilanka/Documents/Sem 6/Software Project/API Project/FormulaOne.Entities/FormulaOne.Entities.csproj": {
+              "projectPath": "/Users/ryandilanka/Documents/Sem 6/Software Project/API Project/FormulaOne.Entities/FormulaOne.Entities.csproj"
             }
           }
         }

@@ -1,0 +1,6 @@
+@FIA_HostAddress = http://localhost:5181
+
+GET {{FIA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

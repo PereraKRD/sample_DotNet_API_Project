@@ -1,6 +1,9 @@
+using FormulaOne.Api.Services;
+using FormulaOne.Api.Services.Interfaces;
 using FormulaOne.DataSerivce.Data;
 using FormulaOne.DataSerivce.Repositories;
 using FormulaOne.DataSerivce.Repositories.Interfaces;
+using MassTransit;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,8 +21,21 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+builder.Services.AddMassTransit(conf =>
+{
+    conf.UsingRabbitMq((ctx, cfg) =>
+    {
+        cfg.Host("localhost", "/", h =>
+        {
+            h.Username("myuser");
+            h.Password("mypass");
+        });
+    });
+});
+
 
 builder.Services.AddScoped<IUnitofWork,UnitOfWork>();
+builder.Services.AddScoped<IDriverNotificationPublisherService,DriverNotificationPublisherService>();
 
 var app = builder.Build();
 
